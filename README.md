@@ -9,6 +9,8 @@
 		- Bar design
 	- JAVA
 
+- How to use?
+	- Just run .jar
 
 - HW1 R/W Image Files
 	- Supported: JPG, BMP, PPM
