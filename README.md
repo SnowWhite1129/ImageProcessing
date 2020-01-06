@@ -1,11 +1,14 @@
 # ImageProcessing
 
-**NTNU**
+## **NTNU**
+
+![Example](IPHW.png)
 
 - Feature
 	- GUI
 		- Bar design
 	- JAVA
+
 
 - HW1 R/W Image Files
 	- Supported: JPG, BMP, PPM
